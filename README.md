@@ -7,5 +7,5 @@ grafo de lista de adjência - Código do cabeçalho = grafo-lista-adj.c
 grafo de lista de adjência - Código da implementação = grafo-lista-adj-implementacao.c
 
 Para entender mais sobre grafo com as imagens que fazem parte da explicação pode acessar o seguinte link:
-https://medium.com/@paulomartins_10299/grafos-representa%C3%A7%C3%A3o-e-implementa%C3%A7%C3%A3o-f260dd98823d?sk=0e59d33853d56e855858fc7b7b7e2909
+https://medium.com/@paulomartins_10299/grafos-c%C3%B3digo-das-opera%C3%A7%C3%B5es-b%C3%A1sicas-e91d9a79e828
 

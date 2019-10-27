@@ -13,13 +13,13 @@ contato: paulo.martins@unesp.br ou pgsm5@hotmail.com
 #include <stdlib.h>
 #define true 1
 #define fase 0
-typedef int bool
-typedef TIPOPESO;
+typedef int bool;
+typedef int TIPOPESO;
 
 typedef struct adjacencia {
     int vertice; // vertice de destino 
     TIPOPESO peso; // peso associado a aresta que leva ao vertice de destino
-    strutc adjacencia *prox; // O próximo elemento da lista de adjacencias
+    struct adjacencia *prox; // O próximo elemento da lista de adjacencias
 }ADJACENCIA;
 
 typedef struct vertice {

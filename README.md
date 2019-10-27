@@ -4,7 +4,9 @@ Modelo de códigos de grafo em C. Usado para final didático de elucidação da 
 Lista de códigos:
 
 grafo de lista de adjência - Código do cabeçalho = grafo-lista-adj.c 
+
 grafo de lista de adjência - Código da implementação = grafo-lista-adj-implementacao.c
+
 grafo de lista de adjência - Código da implementação com impressão na tela  = grafo-lista-adj-completo.c
 
 Para entender mais sobre grafo com as imagens que fazem parte da explicação pode acessar o seguinte link:
